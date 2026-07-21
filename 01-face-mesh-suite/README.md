@@ -31,17 +31,14 @@ A real-time face tracking application built with **[OpenCV](https://opencv.org/)
 pip install opencv-python mediapipe numpy
 🛠️ Installation
 Clone repository:
-```
-```bash
+
 git clone [https://github.com/EngReem85/GesturePlay.git](https://github.com/EngReem85/GesturePlay.git)
 cd GesturePlay/01-face-mesh-suite
 Install dependencies:
-```
-```Bash
+
 pip install -r requirements.txt
 Run:
-```
-```Bash
+
 python main.py
 ```
 ## ⚙️ Configuration
@@ -74,7 +71,7 @@ MOUTH_CIRCLE_MAX = 50             # Max circle radius
 ## 🎮 Controls
 Press q or ESC: Exit application.
 
-##🔧 Technical Details
+## 🔧 Technical Details
 Landmark Indices
 Python
 ```Bash
