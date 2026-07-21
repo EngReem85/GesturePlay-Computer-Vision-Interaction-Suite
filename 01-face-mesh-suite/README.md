@@ -47,22 +47,30 @@ python main.py
 ⚙️ Configuration
 Visual Settings
 Python
+```Bash
 TRACK_COLOR = (255, 0, 0)        # Wireframe color (BGR)
 TEXT_COLOR = (0, 255, 255)       # HUD text color
+```
 Eye & Blink Detection
 Python
+```Bash
 BLINK_OFFSET_X = 180              # Counter X position
 BLINK_OFFSET_Y = -50              # Counter Y position
 EYE_OPEN_THRESHOLD = 0.28        # EAR threshold
+```
 Head Roll Display
 Python
+```Bash
 HEAD_LINE_OFFSET_Y = 190          # Line Y offset
 HEAD_LINE_LENGTH = 80             # Line half-length
+```
 Mouth Opening Metrics
 Python
+```Bash
 MOUTH_OFFSET_X = -230             # Display X offset
 MOUTH_OFFSET_Y = 0                # Display Y offset
 MOUTH_CIRCLE_MAX = 50             # Max circle radius
+```
 🎮 Controls
 Press q or ESC: Exit application.
 
