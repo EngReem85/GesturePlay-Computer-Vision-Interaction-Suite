@@ -44,7 +44,7 @@ Run:
 ```Bash
 python main.py
 ```
-##⚙️ Configuration
+## ⚙️ Configuration
 Visual Settings
 Python
 ```Bash
@@ -89,7 +89,7 @@ draw_face_wireframe() — Renders face mesh overlay.
 
 crop_square() — Extracts eye regions.
 
-##🎯 Use Cases
+## 🎯 Use Cases
 Human-Computer Interaction (HCI)
 
 Fatigue Monitoring
