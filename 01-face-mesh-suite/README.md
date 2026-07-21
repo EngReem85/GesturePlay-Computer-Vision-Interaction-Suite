@@ -27,22 +27,23 @@ A real-time face tracking application built with **[OpenCV](https://opencv.org/)
 
 ## 📋 Requirements
 
-
+```bash
 pip install opencv-python mediapipe numpy
 🛠️ Installation
 Clone repository:
-
-Bash
+```
+```bash
 git clone [https://github.com/EngReem85/GesturePlay.git](https://github.com/EngReem85/GesturePlay.git)
 cd GesturePlay/01-face-mesh-suite
 Install dependencies:
-
-Bash
+```
+```Bash
 pip install -r requirements.txt
 Run:
-
-Bash
+```
+```Bash
 python main.py
+```
 ⚙️ Configuration
 Visual Settings
 Python
