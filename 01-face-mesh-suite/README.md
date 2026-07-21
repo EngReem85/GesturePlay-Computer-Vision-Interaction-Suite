@@ -43,7 +43,8 @@ Run:
 ```
 ```Bash
 python main.py
-```⚙️ Configuration⚙️ Configuration
+```
+##⚙️ Configuration
 Visual Settings
 Python
 ```Bash
@@ -70,23 +71,25 @@ MOUTH_OFFSET_X = -230             # Display X offset
 MOUTH_OFFSET_Y = 0                # Display Y offset
 MOUTH_CIRCLE_MAX = 50             # Max circle radius
 ```
-🎮 Controls
+## 🎮 Controls
 Press q or ESC: Exit application.
 
-🔧 Technical Details
+##🔧 Technical Details
 Landmark Indices
 Python
+```Bash
 LEFT_EYE_IDX = [33, 133, 159, 145, 158, 153]
 RIGHT_EYE_IDX = [362, 263, 386, 373, 387, 380]
 MOUTH_IDX = [13, 14]
-Key Functions
+```
+# Key Functions
 eye_aspect_ratio() — Computes EAR for blink detection.
 
 draw_face_wireframe() — Renders face mesh overlay.
 
 crop_square() — Extracts eye regions.
 
-🎯 Use Cases
+##🎯 Use Cases
 Human-Computer Interaction (HCI)
 
 Fatigue Monitoring
