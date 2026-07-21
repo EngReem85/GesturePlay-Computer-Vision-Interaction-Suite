@@ -43,8 +43,7 @@ Run:
 ```
 ```Bash
 python main.py
-```
-⚙️ Configuration
+```⚙️ Configuration⚙️ Configuration
 Visual Settings
 Python
 ```Bash
