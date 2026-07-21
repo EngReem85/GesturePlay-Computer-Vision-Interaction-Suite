@@ -27,7 +27,7 @@ A real-time face tracking application built with **[OpenCV](https://opencv.org/)
 
 ## 📋 Requirements
 
-```bash
+
 pip install opencv-python mediapipe numpy
 🛠️ Installation
 Clone repository:
