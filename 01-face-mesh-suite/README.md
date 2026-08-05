@@ -17,11 +17,6 @@ A real-time face tracking application built with **[OpenCV](https://opencv.org/)
 - **Head Roll Indicator:** Visual alignment line for head tilt.
 - **Mouth Metrics:** Percentage display and responsive circle overlay.
 
----
-
-## 🚀 Demo
-
-![Face Scan Wireframe Demo](demo.gif)
 
 ---
 
